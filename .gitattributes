@@ -1,2 +1,6 @@
 inputs/testing_dataset_Lx.csv filter=lfs diff=lfs merge=lfs -text
 inputs/training_dataset_Lx.csv filter=lfs diff=lfs merge=lfs -text
+inputs_Sc_onshore/Lisbon_scOnshore.csv filter=lfs diff=lfs merge=lfs -text
+inputs_Sc_onshore/Lisbon_scOnshore_disagg_GHS_POP.csv filter=lfs diff=lfs merge=lfs -text
+inputs_Sc_onshore/Lisbon_scOnshore_disagg_GHS_S.csv filter=lfs diff=lfs merge=lfs -text
+inputs_Sc_onshore/Lisbon_scOnshore_disagg_GHS_V.csv filter=lfs diff=lfs merge=lfs -text
